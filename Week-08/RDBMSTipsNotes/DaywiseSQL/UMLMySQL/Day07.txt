@@ -1,0 +1,353 @@
+Assessment
+UML+MySQL 9.30 - 11.00(11.10) & 11.25 to 1.00 pm
+
+----------------------------------------------------------------------------------------------------------
+T Break 11.10 to 11.25
+WISH YOU ALL THE BEST!!!
+
+----------------------------------------------------------------------------------------------------------
+11.45 to 4.30 pm
+Normalization 
+Denormalization
+[Left Over Bits : Drop Default,Check,View,Auto Increment]
+-----------------------------------JAVA----------------------------------------------------------------
+Further Understanding of the Structure of Java Programme[Completed]
+Features of Java - Revisit[Completed]
+Data Types[Completed]
+Classes & Objects[Completed]
+Value Type vs Reference Types[Completed]
+Classes & Constructors Started [Completed]
+Loops & Constructs[if..else,if..else if....switch case...while... dowhile...for][Not Completed]
+Classes & Constructors[Partially Completed]
+Understanding Encapsulation/Abstraction/Inheritance/Polymoprhism[Not Completed]
+Getters & Setters[Not Completed]
+Function Overloading
+Overloaded Constructors[Not Completed]
+Call By Value vs Call By reference[Not Completed]
+PrePost Increment
+static variable/static function[Not Completed]
+Arrays [ 1,2 multi dimensional][Not Completed]
+Jagged Arrays[Not Completed]
+Array Of Objects
+
+=================================================================
+Inheritance - Types
+Abstract Classes 
+Interfaces
+Polymorphism
+=================================================================
+#include<iostream.h>
+#include<math.h>
+int main()
+{
+
+
+}
+class A
+{
+
+}
+class B
+{
+
+}
+
+
+
+
+
+
+
+==================================================================
+DLL vs SLL
+
+
+public class Employee
+{
+
+	public static void main(String[] args)
+	{
+		System.out.println("Welcome to Java Programming");
+	
+	}
+}
+====================================================================
+
+
+Java / C++ / C# / VB[APIs]
+
+I/P			O/P
+| 		|	
+|	in	|          out
+
+------------------------------------------------	
+OS
+
+
+-------------------------------------------------------		
+Hard Disk -- files Customer.txt/Supplier.txt 	OutPutFile	(monitor)	InputFile(keyboard)
+
+
+Data - store /manipulate
+
+Organize:
+
+Files [ pdf/data/image/text/audio/video] -     Disk Based
+
+vs
+
+Memory Based
+Data Structures [ Hashtable/HashMap/Stack/Queue/LinkedList/ArrayList/BinaryTree] : 
+Variables
+Arrays
+=======================
+OutputStream op  = new OutputStream(text1.txt)
+PrintStream ps1= new PrintStream (op)
+ps.write
+
+
+PrintStream out= new PrintStream (op)
+out.println("hello")
+==============
+class A
+{
+public void method1()
+{
+
+
+}
+
+
+}
+
+
+A obj = new A();
+obj.method1();
+===============================
+class PrintStream
+{
+
+
+public void println()
+{
+
+----------------------------->stream  ----->   Monitor
+}
+
+
+}
+=======================
+PrintStream out = new PrintStream();
+out.println("Hello"):
+----------------------------
+System.out.println("hello "):
+
+===========================================
+package java.lang;
+class System
+{
+static PrintStream out;
+
+}
+-------------------------------------------------------------
+
+System s = new System();
+X s.out.println();
+
+System.out.println("Hello");
+==================================================================
+Value Types 	vs		 Reference Types
+
+Primitive Types			String 
+int [ -32535 to +32535]		User Defined Types :  Class
+short				Interfaces
+byte				Abstract Class
+long				Array
+char
+Structure
+enum
+========================
+
+int num1 = 100;
+Employee e1 = new Employee();
+
+class Customer
+{
+
+
+}
+class Employee
+{
+String employeeCode;
+String employeeName;
+String employeeAddress;
+
+public void getEmployeeData()
+{
+
+}
+public void work()
+{
+
+}
+
+public void eat()
+{
+
+}
+
+public void sleep()
+{
+
+
+}
+
+} Employee e1 = new Employee();
+Employee e2 = new Employee();
+Employee e3 = new Employee();
+
+Customer c1 = new Customer();
+=====================================
+value Types are thos when applied on variable , the variables are made to hold data
+Reference types are thos when applied on (variables)objects , the objects are made to hold data
+=========================================================================
+Simple
+OOP complete
+But not pur OOP
+Multithreading
+Database access APIS
+networking
+poratble/scalable/reliable/secured
+-----
+ Components / WebServices
+================================================
+
+// T BREAK 4.26 to 4.46 
+===============================================
+
+
+
+PrintStream out = new PrintStream(os);
+
+out.println()
+
+
+Scanner scan1= new Scanner(System.in)
+String empName = scan1.next()     Harsha Vardhana
+
+nextLine() // Harsha Vardhana
+
+
+ int score  = scan1.nextInt()
+float fVariable =  scan1.nextFloat()
+double vard =  scan1.nextDouble()
+
+int float double 
+-------------------------------
+package java.util;
+class Scanner
+{
+
+public void nextInt(){------}
+
+public void next() // Strings without spaces
+{
+
+}
+public void nextLine() //String with spaces
+{
+
+}
+public void nextFloat() // float 
+{
+
+}
+
+public void nextDouble() // double
+{
+
+}
+}
+==================================================
+
+class ClassA
+{
+
+String employeeName;
+
+public void function1()
+{
+System.out.println("   we are learning java "+employeeName);
+}
+
+public void function2()
+{
+
+}
+
+public void function3()
+{
+
+}
+
+
+}
+============================================================================
+Constructors are special functions which have the same name as that of the class Names
+and are invoked when we create an object of the class.
+Constructors help in initializing the variables and allocating memory for the objects in the heap; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

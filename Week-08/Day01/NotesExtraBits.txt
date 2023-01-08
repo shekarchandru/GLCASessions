@@ -1,0 +1,31 @@
+alter table tableName
+add columnName datatype
+
+alter table tabx1
+add address varchar(40);
+
+alter table tabx1 drop column address;
+--------------------------------------------------
+alter table tableName
+modify columnName newDatatype - MODIFIES ONLY DATATYPE
+
+alter table tableName
+change oldcolumn newcolumn datatype
+
+alter table tabx1 change name employeeName varchar(30); // CHANGES THE FIELD ITSELF
+-----------------------------------------------------
+set autocommit=0;
+
+STR_TODATE('24-Mar-2022','%d-%M-%Y')
+--------------------------------------------------------
+alter table add column1 type after columnname
+-----------------------------------------------------
+alter table tabx1
+add address varchar(40) after id;
+--------------------------------------------------------
+rename table tabx1 to tabxx1; 
+drop table tabl1e1
+truncate table table1;
+
+Decimal -10^38+1  10^38-1
+FLOAT -1.79E+308 1.79E+308

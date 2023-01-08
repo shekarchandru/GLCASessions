@@ -1,0 +1,221 @@
+Day 01 - 24 Sep 2020
+
+Introduction Students + Trainer[Completed]
+Brief Idea about How Real Time Projects work[Completed]
+Need for  DevOps[Completed]
+Why Dev Ops Based Eco System[Completed]
+Project Allocation[Completed]
+Discussion On Project Topics - Interactive[Completed]
+What is Expected From the Students in Completing Project[Completed]
+Explaining briefly about Various Technologies That are to be learnt from Project Perspective.[Completed]
+The Brief Idea about Various Tools / Usage in Projects - Linking All tools Brief Overview[Completed]
+Making them Understand why learning these Technologies & tools[Completed]
+Thereby Enabling them  to Understand the Need for EcoSystem [Completed]
+Making Them Come out With Architectural Diagram/Approach[IN PROGRESS]
+Groups to Come out With DB Design - Briefly atleast - to be tuned in due course[IN PROGRESS]
+Groups to Come Out With Flow Diagram- to be tuned in due course[IN PROGRESS]
+Groups To come out with UML Diagram(UseCase/Sequence/Class/Activity)- to be tuned in due course[IN PROGRESS]
+========================================================================================================================
+Dev-Ops - Agile
+Aims shortening SDLC
+Release software more faster / 
+communicates & collaborates among business 
+practices
+--------------------------------------------------------------------------------------------------
+Quality Aspects - CORRECTNESS-Reliability/Performance/Security/Durability/Scalability/Portability/Maintenability/UserFriendliness/Deployablility
+Engineer -   
+Code Review
+-----------------------------
+IDE - PROJECT MGMT SYSTEM / ISSUE TRACKING SYSTEM - SCM - BUILD - UNIT TESTING -CODE REVIEW - INTEGRATION - INT-TESTING-
+Eclipse - JIRA -    GIT -   MAVEN -------JUNIT -     CRUCIBLE - JUNIT/SELENIUM - JENKINS
+
+Code Review - Crucible
+
+DEPLOY/INTEGRATION [ Architecture-ecosystem - Devops]
+--------------------------------------------------------
+STRUCTURAL ELEMENTS
+Approach - style
+Platform
+H/W/S/w - Technologies/environment
+Business Strategy
+Quality Attributes []
+Language - Technology
+Framework 
+Complexity
+Documentation
+Database- DB connectivity principle/Data Access Technique
+Artifacts - Design Tools - 
+DataStructures
+Algorithms-
+Design Patterns
+----------------------------------------------------------------------------------------------------------------------------------
+
+BREAK  - 11.05 - 11.20 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Doubts:
+Q&A
+Maven Build 
+
+Build  - 
+-----------------------------------------------------------------------------------------------------------------------------------
+Upto 12.30 extended upto 12.35 Project Analysis - Selection By Team 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Grady Booch - Booch Priciples
+Ivor Jacobson -  OMT 
+James Rumbaugh - OOSE
+--------------------------------------------------------------
+UML  - Unified Modelling Language - 
+
+Static Modelling / Dynamic Modelling- Activity Diagram
+
+---------------------
+13 Diagrams
+===============================================================LUNCH BREAK 1.05 to 1.50=========================================================
+OOAD - UML
+[Inception - Analysis - Design - Construction - Testing - Deployment - Maintenance/Support
+Requirement Anaylsis
+Requirement - Gathering Techniques
+Brain Storming
+Questionnaire
+Meetings 
+
+SRS - [ERS]- Freezing Requirements
+---------------------------------------------------------------------
+Use case Diagram vs Use Case  - Descriptive [ Casual / Fully Dressed -  Scope/Intension/Extension / Terse]
+OOAD - Class   
+Instantiation
+Realization - a Concrete class from [Interface] - 
+Specialization --
+Generalization
+Composition --
+Aggregation --
+Association ---
+----------------------------------------------------------------------------------------------------------------------------------------
+Composition  : a scenario where a Contained entity loses its scope/ceases to exist,  when a containing entity 
+goes out of scope/ceases to exist
+Aggregation : a scenario where a Contained entity independently exists inspite of the ceasing of the Containing entity
+----------------------------------------------------------------------------------------------------------------------------------
+Identifying Entity -
+ Domain Modelling - Real life entities [ Identifying Real Life Objects and identifying chracteristics]
+---------------------------------------------------------------------------------------------------------------------------------
+List myList;
+myList = new ArrayList();
+myList = new LinkedList()
+
+Account
+{
+
+							
+
+
+}
+SBAccount	RDAccount	FDAccount	InsuranceAccount  SB	
+
+|
+|leads me to coming out with Class Diagram
+
+class Address
+{
+String dNo;
+String street;
+
+
+}
+class Taxation
+{
+
+}
+class Invoice
+{
+Taxation t;
+
+
+}
+
+
+class Employee
+{
+String employeeId;
+Address employeeAddress;
+
+public void getEmployeeDetails()
+{
+
+
+}
+--------------------------------------------------------------------------------------------------------------------------------
+Today
+
+-    SRS
+-    UseCase
+-    Class Diagram
+---------------------------------------------------------------------------------------------------------------------------------
+Tomorrow
+- -    DFD
+- DB design
+- ER Diagram
+- System Sequence Diagram
+- Activity Diagram
+- State Chart Diagram
+- Architecture Diagram
+----------------------------------------------------START UML DIAGRAMS ON PROJECT -----------------------------------UPTO  5.30------------------------
+----------------------------------Students Interaction--------------------------------------------------------------------------
+1)Class combination of methods/functions & objects -
+2) Data members
+-------------------------------------------
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

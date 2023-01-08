@@ -1,0 +1,33 @@
+RDBMS Day 01
+What is DBMS
+RDBMS vs DBMS
+Data Redundancy / Database Integrity / Consistency / Transaction Mgmt 
+E F Codd Rules - Overview
+What is Database?
+Tables - Rows - Tuples / Fields - Columns
+Types Of DBMS
+-----------------
+MySQL - MySQL Work Bench
+MySQL Features
+SQL
+DDL-DML-DCL-DQL-TCL
+
+DDL
+	- create
+	- drop
+	- truncate 
+	- alter [modify / change] add column drop column
+	
+DML
+	update
+	delete
+	insert
+DQL
+	select queries [ where , in , between and , like not in not like 
+	operators/
+	order by
+	group by
+
+Functions
+	String / Date /Math
+	
